@@ -1,5 +1,7 @@
 # Hi there 👋
-## 🌱 I’m currently learning python
+## 🌱 I’m currently learning:
+- [x] Python
+- [x] Javascript
 ## ⚡ Fun fact: 
    If you walk in the light as he is in the light then you will have fellowship with him
 <!--
