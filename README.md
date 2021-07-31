@@ -1,7 +1,7 @@
 # Hi there 👋
-##🌱 I’m currently learning python
-##⚡ Fun fact: 
-  ### If you walk in the light as he is in the light then you will have fellowship with him
+## 🌱 I’m currently learning python
+## ⚡ Fun fact: 
+   If you walk in the light as he is in the light then you will have fellowship with him
 <!--
 **codeprospect/codeprospect** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
