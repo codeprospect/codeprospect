@@ -4,6 +4,8 @@
 - [x] Javascript
 ## ⚡ Fun fact: 
    If you walk in the light as he is in the light then you will have fellowship with him
+## 💬 Ask me about:
+   waikaumaina1@gmail.com
 <!--
 **codeprospect/codeprospect** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
